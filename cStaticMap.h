@@ -6,7 +6,7 @@
  All of the methods function same as cMap, differing in that they must be defined for
  every derived types, like a C++ template class.
  
- There is 3 macro definitions included in this header file:
+ There are 3 macro definitions included in this header file:
  
  - #define cStaticMap(KEY_TYPE, VALUE_TYPE, MAP_ALLOC)  :
    This is used to derive a map type with a 'typedef' statement.
